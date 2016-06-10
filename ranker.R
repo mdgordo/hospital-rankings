@@ -1,3 +1,5 @@
+## sub function, needs to be called to answer part 3
+
 ranker<-function(data,outcome,num="best") {
         data<-as.data.frame(data)
         if (outcome=="heart attack"){
