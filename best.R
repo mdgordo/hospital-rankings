@@ -1,3 +1,4 @@
+##answer to part 1
 best <- function(state, outcome) {
         ## Read outcome data
         data<-read.csv("outcome-of-care-measures.csv",colClasses = "character")
