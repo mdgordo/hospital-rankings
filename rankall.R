@@ -1,3 +1,4 @@
+## answer to part 3 - relies on ranker function (need to source(ranker))
 rankall <- function(outcome, num = "best") {
         ## Read outcome data
         data<-read.csv("outcome-of-care-measures.csv",colClasses = "character")
